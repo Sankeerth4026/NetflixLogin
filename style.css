@@ -5,7 +5,7 @@
 
 }
 .main{
-    background-image:url("images/bi.jpg");
+    background-image:url("bi.jpg");
     background-position: center center;
     height:auto;
     background-size: max(1400px,100vw);
